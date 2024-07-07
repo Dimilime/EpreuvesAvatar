@@ -1,6 +1,5 @@
 package be.souk.terre;
 
-import java.sql.SQLOutput;
 
 public class Terre14 {
     public static void main(String[] args) {

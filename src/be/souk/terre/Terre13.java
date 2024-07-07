@@ -1,7 +1,5 @@
 package be.souk.terre;
 
-import java.util.Arrays;
-
 import static be.souk.terre.Terre12.to2Digit;
 import static be.souk.terre.Terre12.transform24hourTo12;
 

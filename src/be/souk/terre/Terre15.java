@@ -1,7 +1,5 @@
 package be.souk.terre;
 
-import java.util.Arrays;
-
 public class Terre15 {
 
     public static void main(String[] args) {

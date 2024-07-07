@@ -3,7 +3,7 @@ package be.souk.terre;
 public class Terre11 {
     public static void main(String[] args) {
         for (int i = 0; i < 100; i++) {
-            System.out.println(isPrimeNumber(i) ? i+" est premier" : i+" n'est pas premier"); ;
+            System.out.println(isPrimeNumber(i) ? STR."\{i} est premier" : STR."\{i} n'est pas premier");
         }
     }
 

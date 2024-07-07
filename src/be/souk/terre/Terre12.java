@@ -1,8 +1,5 @@
 package be.souk.terre;
 
-import java.util.HashMap;
-import java.util.TreeSet;
-
 public class Terre12 {
     public static void main(String[] args) {
         System.out.println(transform24hourTo12("12:40"));
